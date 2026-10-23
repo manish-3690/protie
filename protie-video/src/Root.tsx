@@ -1,0 +1,18 @@
+import './index.css';
+import { Composition } from 'remotion';
+import { ProtiePromo } from './ProtiePromo';
+
+export const RemotionRoot: React.FC = () => {
+  return (
+    <>
+      <Composition
+        id="ProtiePromo"
+        component={ProtiePromo}
+        durationInFrames={300}
+        fps={30}
+        width={1080}
+        height={1920}
+      />
+    </>
+  );
+};

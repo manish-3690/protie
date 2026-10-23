@@ -1,6 +1,6 @@
-# Welcome to your Expo app 👋
+# Protie 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Protie is a daily protein tracker featuring Tank the bull mascot. Built with Expo, React Native, and TypeScript.
 
 ## Get started
 

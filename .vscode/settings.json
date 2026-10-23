@@ -3,5 +3,13 @@
     "source.fixAll": "explicit",
     "source.organizeImports": "explicit",
     "source.sortMembers": "explicit"
+  },
+  "python.defaultInterpreterPath": "C:\\Python314\\python.exe",
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.preferences.includePackageJsonAutoImports": "off",
+  "files.watcherExclude": {
+    "**/node_modules/**": true,
+    "**/protie-video/**": true,
+    "**/.expo/**": true
   }
 }
